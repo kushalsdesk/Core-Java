@@ -1,6 +1,6 @@
 package variables;
 
-public class Variables {
+public class VariableOne {
   public static void main(String[] args) {
     System.out.println("Welcome to Variables in Java");
 
