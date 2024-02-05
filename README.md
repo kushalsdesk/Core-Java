@@ -104,7 +104,7 @@
     * `Fork/Join` framework for parallel processing
     * `CompletableFuture` for asynchronous programming
 
-**10. Advanced Topics (Not Strictly "Core", but Important)**❌
+**10. Advanced Topics**❌
 
 - Inner Classes:
     * Local, anonymous, static inner classes and their use cases
