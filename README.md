@@ -2,22 +2,24 @@
 [![](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 
-**1. Fundamentals**
-
-- Data Types:✅
+**1. Fundamentals**✅
+- Data Types:
     * ✔️Primitive types (numeric, boolean, char)
     * ✔️Non-primitive types (String, arrays, objects)
     * ✔️Type casting and conversions
-- Variables & Operators:✅
+- Variables & Operators:
     * ✔️Declaring and initializing variables
     * ✔️Arithmetic, relational, logical, and assignment operators
-- Control Flow:✅
+- Control Flow:
     * ✔️`if`, `else`, `switch` statements for conditional branching
     * ✔️`for`, `while`, `do-while` loops for iteration
-- Methods:✅
+- Methods:
     * ✔️Creating and invoking methods
     * ✔️Parameters, return values, method overloading
-- Introduction to OOP:✅
+- Wrapper Class:
+    * ✔️UnderStanding the Difference between Primitive and Reference Types
+    * ✔️Access the Methods to each Wrappers
+- Introduction to OOP:
     * ✔️Basic OOP concepts (objects, classes, inheritance, polymorphism)
 
 **2. Arrays**✅
