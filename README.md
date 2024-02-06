@@ -1,6 +1,7 @@
 ## Core Java: A Branching Roadmap 
 [![](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
+**Progress:** 🟩🟩🟩⬜⬜⬜⬜⬜⬜
 
 **1. Fundamentals**✅
 - Data Types:
@@ -78,9 +79,9 @@
     * Reading and writing data from files using streams
     * Classes like `FileInputStream`, `FileOutputStream`
 - Standard I/O:
-    * System.in for user input
-    * System.out for printing output
-    * Using the `Scanner` class for simplified input with various data types
+    * ✔System.in for user input
+    * ✔System.out for printing output
+    * ✔Using the `Scanner` class for simplified input with various data types
 
 **8. Collections**❌
 
@@ -104,13 +105,16 @@
     * `Fork/Join` framework for parallel processing
     * `CompletableFuture` for asynchronous programming
 
-**10. Advanced Topics (Not Strictly "Core", but Important)**❌
+**🔭GUI Development:**
+* ❤️JavaFX    
+* Swing 
 
-- Inner Classes:
-    * Local, anonymous, static inner classes and their use cases
-- Interfaces:
-    * Defining contracts for classes to implement, enforcing specific behaviors
-- Generics:
-    * Creating type-safe collections and methods , working with various data types
-- Java Reflection:
-    * Inspecting and manipulating classes and objects at runtime
+**🔭Web Development:**
+* ❤️Spring MVC
+* Servlets 
+* JSP 
+**🔭Networking:**
+* Sockets, TCP/IP, HTTP communication
+* Java libraries for network programming
+
+Remember, this is just a guide. Explore topics in any order that suits you, revisit earlier sections as needed, and adapt the roadmap to your learning goals.
