@@ -105,9 +105,13 @@
     * `Fork/Join` framework for parallel processing
     * `CompletableFuture` for asynchronous programming
 
+<<<<<<< HEAD
 **🔭GUI Development:**
 * ❤️JavaFX    
 * Swing 
+=======
+**10. Advanced Topics**❌
+>>>>>>> 9320ac6d5da41f8787b719d87a04ae61355dc1c2
 
 **🔭Web Development:**
 * ❤️Spring MVC
