@@ -109,8 +109,6 @@
 * ❤️JavaFX
 * Swing
 
-
-
 **🔭Web Development:**
 * ❤️Spring MVC
 * Servlets
