@@ -139,23 +139,20 @@
    - `Fork/Join` framework for parallel processing (❌)
    - `CompletableFuture` for asynchronous programming (❌)
 
+**🔭 Web Development:**
 
-
-
-**12. Web Development:** (❇)
-
-- **Spring MVC:**
-    - Model-View-Controller architecture (MVC) (❇)
-    - Building web applications with controllers, views, and models (❇)
-    - Dependency injection and Spring Boot for rapid development (❇)
+- **❤️Spring MVC:**
+    - Model-View-Controller architecture (MVC) 
+    - Building web applications with controllers, views, and models 
+    - Dependency injection and Spring Boot for rapid development 
 - **Hibernate:**
-    - Object-relational mapping (ORM) for database access (❇)
-    - Persisting and retrieving data using entities and annotations (❇)
-    - Querying with HQL or native SQL (❇)
+    - Object-relational mapping (ORM) for database access 
+    - Persisting and retrieving data using entities and annotations 
+    - Querying with HQL or native SQL 
 
-**13. Graphical User Interfaces (GUI):** (❇)
+**🔭 Graphical User Interfaces (GUI):** 
 
-- **JavaFX:**
+- **❤️JavaFX:**
     - Modern declarative UI building with FXML (❇)
     - Rich graphics capabilities for animations and effects (❇)
     - Scene Builder for visual UI design (❇)
