@@ -17,6 +17,23 @@ class Calculator {
   }
 }
 
+class Game {
+  private String gameName;
+
+  public void setGameName(String name) {
+    this.gameName = name;
+  }
+
+  public void getGameName() {
+    System.out.println("The name of the game " + gameName);
+  }
+
+  void makeGame() {
+    System.out.println("Making a game with the method");
+  }
+
+}
+
 class Pizza {
 
   void makePizza() {
@@ -46,5 +63,10 @@ public class MethodTwo {
     Calculator calc = new Calculator();
     System.out.println(calc.add(8.978, 9.56));
     System.out.println(calc.add(81, 9));
+
+    // Class examples with the Game Class
+    Game game = new Game();
+    game.setGameName("Forza Horizon 4");
+    game.getGameName();
   }
 }
